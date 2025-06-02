@@ -1,4 +1,5 @@
-// Harusnya ada .env -> require('dotenv').config()
+require('dotenv').config()
+
 const express = require('express')
 
 const homeRouter = require('./routers/home_router')
