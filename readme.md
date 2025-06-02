@@ -3,3 +3,5 @@
 ## Features
 
 - Dashboard
+- Register
+- Login
